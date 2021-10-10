@@ -275,8 +275,5 @@ TSWLatexianTemp*
 # Makeindex log files
 *.lpz
 
-# Asymptote files
-*.asy
-
 # .DS_Store files
 .DS_Store
